@@ -1,4 +1,4 @@
 # anothergo
 This is my second git repository.
-\n
+printf("\n");
 This is nijhum
